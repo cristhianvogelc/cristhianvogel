@@ -2,7 +2,7 @@
 ### Seja bem-vindo ao meu perfil GitHub. 
 
 - 🌅 Sou de Goiânia-GO, Brasil.
-- 🎓 Engenheiro Eletricista, técnico em Mecatrônica e Pós Graduado em Big Data e Machine Learning
+- 🎓 Engenheiro Eletricista, Técnico em Mecatrônica e Pós Graduado em Big Data e Machine Learning
 
 
 #### Como entrar em contato comigo:
